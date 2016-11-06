@@ -2,32 +2,35 @@
 
 **Junior Full Stack Geo Web Developer with 5 years of GIS expertise.**
 
-Then a sentence about what you've achieved. 
-
 My ideal role would be in a collaborative environment in which I can combine my GIS and Web development skills to create Geo Applications that will transform other people's business.
 
-[Profile](#profile) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/mnsabatino)
 ----------
 
-###<a name="profile">Profile</a>
--------
+## Skills
 
-###<a name="skills">Skills</a>
--------
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Reliable, with a friendly and professional manner when liaising with clients. 
+Can work both on her own, using own initiative and troubleshooting, and as part of a team. 
+Resilient, I enjoy learning new skills and technologies. 
+Analytical problem solving.
+Adaptability to learn new programming languages in a time constrained environment.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+</br>
+
+## Projects
+
+Project | Description | Timeframe | Technologies | Testing
+------------- | ----------- | --------------------- | ------------ | -------
+[Chitter](https://github.com/ManuCiao/Chitter-Challenge)| Twitter Clone | 4 days | Ruby, PostgreSQL, Bootstrap, CSS, HTML| RSpec, Capybara, 
+[MakersBnB](https://github.com/ManuCiao/makersbnb) | An AirBnB clone | 5 days | Ruby, PostgreSQL, Bootstrap, CSS, HTML| RSpec, Capybara, 
+[Thermostat](https://github.com/ManuCiao/Thermostat) | Thermostat clone | 5 days | Javascript,JavaScript, Sinatra, jQuery, API, HTML, CSS |Jasmine
 
 
-###<a name="projects">Projects</a>
--------
 
+</br>
+## Education
 
-###<a name="education">Education</a>
--------
 #### Makers Academy (30th August 2016 to 16th December 2016)
 _16 weeks of Full Stack Web Development Bootcamp_
 
@@ -55,38 +58,21 @@ _Diploma, Autodesk CAD Designer, 28/30_
 #### Università degli Studi di Roma 'La Sapienza'(September 2006 - May 2010), Rome, Italy
 _Bachelor's degree in Natural Sciences, 1st - FIRST CLASS HONOURS_
 
-
-###<a name="experience">Experience</a>
--------
+</br>
+## Experience 
 
 **Wood Mackenzie** (March 2015 to present), London, UK   
 *GIS Analyst* 
-- Following the Petroleum Services Group Departmental buy out from Deloitte, I joined Wood Mackenzie in March 2015.
-- Support and training Regional Team members on all spatial data issues such as extracting and manipulating spatial data.
-- Ongoing training and assisting on spatial input tools (ArcMap custom extensions) and analysis of block and field data entered.
-- Ongoing project work to integrate PSG and WM databases, to improve spatial data quality, specifically datum's and geodesics around well, block and field locations.
 
 **Deloitte UK** (July 2014 to March 2015), London, UK    
 *GIS Specialist* 
-- Using ArcGIS desktop to store and manipulate spatial data, conforming to best practices
-- Ensuring that monthly GIS product generation processes run smoothly, troubleshooting as necessary
-- Advising on general geodesy issues
-- Promoting awareness of GIS products
-- Design and implement scripts and tools to streamline Geoprocessing 
-- Monitoring and creating Final Builder projects 
-- Experience with Oracle and MS SQL Server
-- Experience in conducting routine database administration tasks, logging data in database admin logs, and operating under the supervision of a Database Administrator
 
 **IHS** (July 2013 to July 2014), Tetbury, UK    
 *Cartographer* 
--	Collate and report petroleum exploration and production information
--	Extracting and interpreting maps and illustrations from other formats and databases
--	Liaise with Regional Teams on spatial data acquisition and transformation.
--	Responsibility for the creation of A4 images and Location maps for GEPS products such as Monthly Reports and Annual Synopses.
--	Updating and participate to maintenance of EDIN database as per clients’ request
--	Responsibility for the creation of Conference Presentation Maps, client strategy style maps for client visits, and team project maps where required.
 
+Visit my [LinkedIn](https://uk.linkedin.com/in/mnsabatino) profile. 
 
-###<a name="interests">Interests</a>
---------
+</br>
+## Interests
+
 Cycling, Web-GIS applications, Eco-Volunteer, Martial Arts, Gardening.
