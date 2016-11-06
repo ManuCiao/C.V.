@@ -3,18 +3,18 @@
 **Junior Full Stack Geo Web Developer with 5 years of GIS expertise.**
 
 My ideal role would be in a collaborative environment in which I can combine my GIS and Web development skills to create Geo Applications that will transform other people's business.
-
+</br>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/mnsabatino)
 ----------
 
 ## Skills
 
-Reliable, with a friendly and professional manner when liaising with clients. 
-Can work both on her own, using own initiative and troubleshooting, and as part of a team. 
-Resilient, I enjoy learning new skills and technologies. 
-Analytical problem solving.
-Adaptability to learn new programming languages in a time constrained environment.
+* Reliable, with a friendly and professional manner when liaising with clients. 
+* Can work both on her own, using own initiative and troubleshooting, and as part of a team. 
+* Resilient, I enjoy learning new skills and technologies. 
+* Analytical problem solving.
+* Adaptability to learn new programming languages in a time constrained environment.
 
 </br>
 
