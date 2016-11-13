@@ -24,7 +24,8 @@ Project | Description | Timeframe | Technologies | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
 [Chitter](https://github.com/ManuCiao/Chitter-Challenge)| Twitter Clone | 4 days | Ruby, PostgreSQL, Bootstrap, CSS, HTML| RSpec, Capybara, 
 [MakersBnB](https://github.com/ManuCiao/makersbnb) | An AirBnB clone | 5 days | Ruby, PostgreSQL, Bootstrap, CSS, HTML| RSpec, Capybara, 
-[Thermostat](https://github.com/ManuCiao/Thermostat) | Thermostat clone | 5 days | Javascript,JavaScript, Sinatra, jQuery, API, HTML, CSS |Jasmine
+[Thermostat](https://github.com/ManuCiao/Thermostat) | Thermostat clone | 5 days | Javascript, Sinatra, jQuery, API, HTML, CSS |Jasmine
+[ListNote-App](https://github.com/ManuCiao/Note-App) | ListNote App | 5 days | Javascript frontend, HTML, CSS |TDD - Unit tests
 
 
 
