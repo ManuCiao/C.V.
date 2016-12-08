@@ -22,6 +22,7 @@ My ideal role would be in a collaborative environment in which I can combine my 
 
 Project | Description | Timeframe | Technologies | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
+[FinalProject](https://github.com/diok22/finalProjectRabbit)| FindMyFriend (work in progress) | 8 days | Xcode8, FireBase, Swift3| Unit Test Swift3
 [Chitter](https://github.com/ManuCiao/Chitter-Challenge)| Twitter Clone | 4 days | Ruby, PostgreSQL, Bootstrap, CSS, HTML| RSpec, Capybara
 [Thermostat](https://github.com/ManuCiao/Thermostat) | Thermostat clone | 5 days | Javascript, Sinatra, jQuery, API, HTML, CSS |Jasmine
 [ListNote-App](https://github.com/ManuCiao/Note-App) | ListNote App | 5 days | Javascript frontend, HTML, CSS |TDD - Unit tests
@@ -36,16 +37,15 @@ _16 weeks of Full Stack Web Development Bootcamp_
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Angular.js, React.js
 - OOOP, TDD, SOLID, MVC, DDD, BDD, GitHub
-- Languages: Ruby, Javascript, Python
-- Rapid deployment with Heroku
-- APIs such as Twilio, Mailgun, Facebook, Google Maps
-- Databases: PostgreSQL, ActiveRecord and Datamapper, MongoDB
+- Languages: Ruby, Javascript, Python, Swift3
+- Rapid deployment with Heroku, AWS
+- APIs such as Twilio, Facebook, Google Maps, OpenWeatherMap
+- Databases: PostgreSQL, ActiveRecord and Datamapper, MongoDB, Firebase
 - HTML5, CSS, Bootstrap, Javascript, jQuery, AJAX
-- Frameworks: Angular.js, Express.js on Node.js, Angular.js, Sinatra, Rails 
-- Test Driven Development: RSpec, Capybara, Cucumber, Jasmine
+- Frameworks: Angular.js, Express.js on Node.js, Sinatra, Rails 
+- Test Driven Development: RSpec, Capybara, Cucumber, Jasmine, Mocha, Sinon
 
 #### University of Ulster(September 2011-May 2013), Northern Ireland, UK
 _Master's degree, Geographic Information Sciences, Distinction_
